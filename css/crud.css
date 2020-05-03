@@ -1,0 +1,12 @@
+.formulaire {
+    padding: 5%;
+}
+
+.titre {
+    text-align: center;
+    background-color: gray;
+    height: 80px;
+    color: #ffffff;
+    font-size: 40px;
+    padding: 30px;
+}
